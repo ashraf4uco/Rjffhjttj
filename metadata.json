@@ -1,0 +1,6 @@
+{
+  "name": "Sapna beauty salon Kishtwar",
+  "description": "Modern salon and makeup studio in Hidyal, Kishtwar, offering professional hair styling, bridal & party makeup, and beauty care services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
